@@ -28,5 +28,4 @@
         <item name="android:background">@drawable/clicbotones</item>
         <item name="android:textColor">@color/blanco</item>
     </style>
-
 </resources>
